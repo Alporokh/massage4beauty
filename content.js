@@ -65,7 +65,7 @@ window.CONTENT = {
       navServices: "Služby", navPrices: "Ceník", navAbout: "O mně", navContact: "Kontakt",
       heroEyebrow: "Massage 4 Beauty · Praha",
       heroH1: "Zdravá, zářivá pleť začíná jemným dotekem",
-      heroSub: "Profesionální masáže obličeje a těla od Ludmily — více než deset let zkušeností, individuální techniky, viditelné výsledky.",
+      heroSub: "Dopřejte si chvíli jen pro sebe. Relaxační masáže v příjemném prostředí, které pomáhají uvolnit tělo, mysl i každodenní stres.",
       ctaBook: "Objednat se", ctaPrices: "Zobrazit ceník",
       aboutEyebrow: "O mně", aboutName: "Ludmila Yemelianova",
       aboutP1: "Jmenuji se Ludmila a jsem masérka s více než desetiletou praxí. Mí klienti dosahují rovnováhy a pohody díky individuálním masážním technikám přizpůsobeným potřebám jejich pleti.",
